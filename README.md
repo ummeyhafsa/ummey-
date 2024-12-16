@@ -2,7 +2,7 @@
 #### I am student.
 ![I am student.]
 
-(https://scontent.fjsr11-1.fna.fbcdn.net/v/t39.30808-6/470222745_1339573073895960_4669634376999939179_n.jpg?stp=dst-jpg_s1080x2048_tt6&_nc_cat=105&ccb=1-7&_nc_sid=833d8c&_nc_eui2=AeEPkkguqPxBlGb0DeSOIuT8x8HGg2-5evDHwcaDb7l68CXbodvsVfLBNAEENiCumOEHW8-RICzYcQo6-WStbyZM&_nc_ohc=A5gDnc1Yw60Q7kNvgEoNdyK&_nc_zt=23&_nc_ht=scontent.fjsr11-1.fna&_nc_gid=A4cD14BkQ278EL4VKK7MWZr&oh=00_AYB0ftLmPjhhHQYpNrDxVw1C9AL9vZTIbmv_-OTLIhJeqA&oe=67658DAC)
+[<img=(https://scontent.fjsr11-1.fna.fbcdn.net/v/t39.30808-6/470222745_1339573073895960_4669634376999939179_n.jpg?stp=dst-jpg_s1080x2048_tt6&_nc_cat=105&ccb=1-7&_nc_sid=833d8c&_nc_eui2=AeEPkkguqPxBlGb0DeSOIuT8x8HGg2-5evDHwcaDb7l68CXbodvsVfLBNAEENiCumOEHW8-RICzYcQo6-WStbyZM&_nc_ohc=A5gDnc1Yw60Q7kNvgEoNdyK&_nc_zt=23&_nc_ht=scontent.fjsr11-1.fna&_nc_gid=A4cD14BkQ278EL4VKK7MWZr&oh=00_AYB0ftLmPjhhHQYpNrDxVw1C9AL9vZTIbmv_-OTLIhJeqA&oe=67658DAC)
 
 
 I’m a Front End Web developer .
@@ -13,6 +13,19 @@ and always work with an end goal in mind. Over the past years, I created 100s
 of websites for my clients. I pride myself on doing quality work and maintain
 excellent communication. Most of the time I work with WordPress but some
 technologies I enjoy working with include ReactJS, JavaScript as well as PHP.
+[<img src=### Hola 👋, my name is Arturs
+#### I am GitHub Readme Generator's creator
+![I am GitHub Readme Generator's creator](https://scontent.fjsr11-1.fna.fbcdn.net/v/t39.30808-6/470222745_1339573073895960_4669634376999939179_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=833d8c&_nc_eui2=AeEPkkguqPxBlGb0DeSOIuT8x8HGg2-5evDHwcaDb7l68CXbodvsVfLBNAEENiCumOEHW8-RICzYcQo6-WStbyZM&_nc_ohc=A5gDnc1Yw60Q7kNvgEoNdyK&_nc_zt=23&_nc_ht=scontent.fjsr11-1.fna&_nc_gid=AwVB6cLitK2pwQ2SEX4ILAf&oh=00_AYDMj4NGiJ8zKFzKpEEjsgGBLcTQWl9-OiTLO5UuNphuIQ&oe=67658DAC)
+
+I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
+
+Habilidades: VUE JS / REACT / JS / HTML / CSS
+
+- 🔭 Estoy trabajando en this page. 
+
+
+
+
 
 Skills: VUE JS / REACT / JS / HTML / CSS
 
